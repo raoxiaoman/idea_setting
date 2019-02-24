@@ -1,0 +1,1164 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/mappers/studentMapper.xml" timestamp="1529660300632">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_51_multiply.java" timestamp="1533115040222">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="22" column="18" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_60_print.java" timestamp="1539225761660">
+        <mark key="[" line="20" column="62" />
+        <mark key="]" line="20" column="62" />
+        <mark key="^" line="20" column="62" />
+        <mark key="." line="20" column="62" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/java/com/raohui/mapper/CourseMapper.xml" timestamp="1529292558818">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+      </file>
+      <file name="D:/share/code/learning_Java/DesignPatternTest/src/main/java/com/raohui/Interpretermode/Client.java" timestamp="1547198023850">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasymusic_2019_01.java" timestamp="1536395764440">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/model/DITest.java" timestamp="1529457600073">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_35_InversePairs.java" timestamp="1532958695072">
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="38" column="38" />
+        <mark key="^" line="38" column="38" />
+        <mark key="." line="38" column="38" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_39_IsBalanced_Solution.java" timestamp="1533008695388">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasymusic_2019_test2.java" timestamp="1536405613949">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/java/com/raohui/controller/StudentController.java" timestamp="1529661220425">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1539607756622">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/share/code/SpringBootTest/src/test/java/com/raohui/SpringBootTest/HelloWorldControllerTests.java" timestamp="1539249885375">
+        <mark key="[" line="29" column="77" />
+        <mark key="]" line="29" column="75" />
+        <mark key="." line="29" column="75" />
+        <mark key="^" line="29" column="75" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/MinNumberInRotateArray.java" timestamp="1531129793651">
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/webapp/mybatis-config.xml" timestamp="1528969416028">
+        <mark key="[" line="11" column="72" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="11" column="75" />
+        <mark key="^" line="11" column="75" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/ReplaceSpace.java" timestamp="1531582098488">
+        <mark key="[" line="18" column="53" />
+        <mark key="]" line="27" column="76" />
+        <mark key="." line="27" column="76" />
+        <mark key="^" line="27" column="76" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/test.java" timestamp="1539322614162">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/JumpFloor2.java" timestamp="1531144919706">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="4" column="7" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/java/com/raohui/Test.java" timestamp="1529293373273">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/pom.xml" timestamp="1529640474671">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="90" column="22" />
+        <mark key="." line="90" column="22" />
+        <mark key="^" line="90" column="22" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/ByteJump_2019_test1.java" timestamp="1534047265075">
+        <mark key="[" line="34" column="59" />
+        <mark key="]" line="65" column="19" />
+        <mark key="." line="65" column="19" />
+        <mark key="^" line="65" column="19" />
+      </file>
+      <file name="D:/share/code/learning_Java/DesignPatternTest/src/main/java/com/raohui/simplefactorymode/GraphicFactory.java" timestamp="1533546355768">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="81" />
+        <mark key="^" line="3" column="81" />
+        <mark key="." line="3" column="81" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test1.java" timestamp="1533814267521">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="19" column="16" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/GetNext.java" timestamp="1533902495270">
+        <mark key="[" line="2" column="13" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/ByteJump_2019.java" timestamp="1534047427422">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_47_Sum_Solution.java" timestamp="1533095867946">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/webapp/WEB-INF/jsp/hello.jsp" timestamp="1529592718975">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="60" />
+        <mark key="." line="7" column="60" />
+        <mark key="^" line="7" column="60" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/webapp/StudentMapper.xml" timestamp="1528970763578">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="48" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/webapp/generatorConfig.xml" timestamp="1529285674967">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/java/com/raohui/dao/studentMapper.java" timestamp="1529660329325">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/Convert_26.java" timestamp="1532855601723">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_41_FindContinuousSequence.java" timestamp="1533028291124">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/java/com/raohui/controller/studentController.java" timestamp="1529660565386">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="22" column="26" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/IsPopOrder_21.java" timestamp="1531644225728">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+      </file>
+      <file name="D:/share/code/SpringBootTest/src/main/java/com/raohui/SpringBootTest/controller/HelloWorldController.java" timestamp="1539248879979">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/test/java/Test.java" timestamp="1529291073136">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/resources/generatorConfig.xml" timestamp="1529313940274">
+        <mark key="[" line="26" column="76" />
+        <mark key="]" line="26" column="81" />
+        <mark key="." line="26" column="81" />
+        <mark key="^" line="26" column="81" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/Huawei_2019_2.java" timestamp="1533126873432">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/Mapper/StudentMapper.java" timestamp="1529546013979">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/CreateQueueByStack.java" timestamp="1531126732360">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+      </file>
+      <file name="D:/share/code/SpringBootTest/pom.xml" timestamp="1539246946458">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_29_GetLeastNumbers_Solution.java" timestamp="1532917363662">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/model/tool/InitHelloWorld.java" timestamp="1529399091254">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/pointcut/AopTest.java" timestamp="1529463426284">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/test1.java" timestamp="1540088123435">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/VerifySquenceOfBST.java" timestamp="1532425299374">
+        <mark key="[" line="27" column="68" />
+        <mark key="]" line="27" column="68" />
+        <mark key="^" line="27" column="68" />
+        <mark key="." line="27" column="68" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_fall_2018_test1.java" timestamp="1536403993236">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/MinStack.java" timestamp="1531643357153">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="15" />
+        <mark key="^" line="27" column="13" />
+        <mark key="." line="27" column="15" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_49_StrToInt.java" timestamp="1533111221822">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/App.java" timestamp="1530864733583">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
+      <file name="D:/share/code/learning_Java/DesignPatternTest/src/main/java/com/raohui/simplefactorymode/RoundGraphic.java" timestamp="1533545180135">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/webapp/SpringMybatisExample-servlet.xml" timestamp="1529657251783">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="64" column="19" />
+        <mark key="." line="64" column="19" />
+        <mark key="^" line="64" column="19" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_61_KthNode.java" timestamp="1539572597680">
+        <mark key="u" line="2" column="26" />
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/resources/jdbc.properties" timestamp="1529315779618">
+        <mark key="[" line="1" column="121" />
+        <mark key="]" line="1" column="121" />
+        <mark key="^" line="1" column="121" />
+        <mark key="." line="1" column="121" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/model/Student.java" timestamp="1529545593336">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/TailToHeadList.java" timestamp="1530867573301">
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_60_Serialize.java" timestamp="1539324799963">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="37" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="21" column="37" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/tool/CStartEventHandler.java" timestamp="1529458460112">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="56" />
+        <mark key="." line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/tool/CustomEventPublisher.java" timestamp="1529460013069">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/ReverseList.java" timestamp="1531214955845">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/GBIt_test1.java" timestamp="1535977535243">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/java/com/raohui/service/impl/studentServiceImpl.java" timestamp="1529660420928">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+      </file>
+      <file name="/Mxml Fragment (jdbc.properties:0).mxml" timestamp="1529308146995">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/DynamicProxyTest.java" timestamp="1533287069515">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="32" />
+        <mark key="." line="26" column="32" />
+        <mark key="^" line="26" column="32" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/huawei_test1.java" timestamp="1537066571221">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="26" column="31" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/java/com/raohui/raohui.java" timestamp="1529296392083">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/ConstructBinaryTree.java" timestamp="1530870296905">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="18" column="104" />
+        <mark key="^" line="18" column="104" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_44_LeftRotateString.java" timestamp="1533044876377">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_54_Solution.java" timestamp="1533892577073">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/model/AopTest.java" timestamp="1529462250617">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/Huawei_2019_3.java" timestamp="1533128461083">
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
+        <mark key="^" line="34" column="40" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/test/com/raohui/Test.java" timestamp="1529394914519">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_57_GetNext.java" timestamp="1533903505606">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/test_gang.java" timestamp="1542543051052">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/Clone_25.java" timestamp="1532490523746">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/Main.java" timestamp="1532875307575">
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="68" column="38" />
+        <mark key="." line="68" column="38" />
+        <mark key="^" line="68" column="38" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/target/classes/generatorConfig.xml" timestamp="1529289547823">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="49" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/webapp/WEB-INF/jsp/result.jsp" timestamp="1529632883763">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="16" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/ByteJump_2019_test3.java" timestamp="1534044277918">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/model/HelloWorld.java" timestamp="1529457192700">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_64_hasPath.java" timestamp="1539607205693">
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="28" column="54" />
+        <mark key="." line="28" column="54" />
+        <mark key="^" line="28" column="54" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_63_maxInWindows.java" timestamp="1539592926529">
+        <mark key="[" line="19" column="62" />
+        <mark key="]" line="19" column="62" />
+        <mark key="." line="19" column="62" />
+        <mark key="^" line="19" column="62" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/model/InitHelloWorld.java" timestamp="1529398972465">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+      </file>
+      <file name="D:/share/code/learning_Java/DesignPatternTest/src/test/java/com/raohui/SimpleFactoryModeTest.java" timestamp="1533546646054">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_66_movingCount.java" timestamp="1540087701053">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="15" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/NumberOf1.java" timestamp="1531208449179">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/tool/CStopEventHandler.java" timestamp="1529458553071">
+        <mark key="[" line="5" column="84" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="56" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_42_FindNumbersWithSum.java" timestamp="1533025450505">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/Huiwei_2019_1.java" timestamp="1533125314176">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="25" column="39" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/model/SingleTypeTest.java" timestamp="1529397412763">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/tool/CustomEventHandler.java" timestamp="1529460212306">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/RectCover.java" timestamp="1531206470330">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_33_GetUglyNumber_Solution.java" timestamp="1532942200282">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+        <mark key="^" line="30" column="38" />
+      </file>
+      <file name="D:/share/code/learning_Java/JDBCTest/src/main/java/com/raohui/App.java" timestamp="1528273013557">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/java/com/raohui/mapper/StudentMapper.java" timestamp="1529378666302">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_3_TailToHeadList.java" timestamp="1532878682072">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/tengxun_fall_2019_test3.java" timestamp="1538390964409">
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="42" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="38" column="42" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_43_ReverseSentence.java" timestamp="1533043717343">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_55_EntryNodeOfLoop.java" timestamp="1533893326254">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="49" />
+        <mark key="." line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_52_match.java" timestamp="1533892057059">
+        <mark key="[" line="29" column="126" />
+        <mark key="]" line="29" column="131" />
+        <mark key="." line="29" column="131" />
+        <mark key="^" line="29" column="131" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_45_isContinuous.java" timestamp="1533045878564">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/JumpFloor.java" timestamp="1531144183506">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/temple/StudentJDBCTemple.java" timestamp="1529558220333">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+      </file>
+      <file name="D:/share/code/learning_Java/DesignPatternTest/src/main/java/com/raohui/Interpretermode/Context.java" timestamp="1547177759387">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/ListMerge.java" timestamp="1531578528026">
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a6d85ce1-7ac7-43c2-888a-54e059a1b4b7/console.sql" timestamp="1529296645426">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_28MoreThanHalfNum_Solution.java" timestamp="1532877503324">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_58_isSymmetrical.java" timestamp="1539223574214">
+        <mark key="[" line="20" column="87" />
+        <mark key="]" line="20" column="87" />
+        <mark key="^" line="20" column="87" />
+        <mark key="." line="20" column="87" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_53_isNumeric.java" timestamp="1533892438371">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="6" column="7" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_37_GetNumberOfK.java" timestamp="1532962524538">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/java/model/Student.java" timestamp="1528969944608">
+        <mark key="[" line="57" column="5" />
+        <mark key="]" line="60" column="17" />
+        <mark key="^" line="60" column="17" />
+        <mark key="." line="60" column="17" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/webapp/WEB-INF/jsp/final.jsp" timestamp="1529636673975">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
+      <file name="D:/share/code/learning_Java/DesignPatternTest/src/main/java/com/raohui/simplefactorymode/Graphics.java" timestamp="1533544989476">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/DynamicPlanTest/src/main/java/com/raohui/DigitalTriangle.java" timestamp="1533740228706">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_62_GetMedian.java" timestamp="1539590001877">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_59_Print.java" timestamp="1540881222377">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+        <mark key="^" line="34" column="43" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/java/com/raohui/service/studentService.java" timestamp="1529659488529">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/Fibonacci.java" timestamp="1531143930886">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_50_duplicate.java" timestamp="1533112408208">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/webapp/WEB-INF/dispatcher-servlet.xml" timestamp="1529669618313">
+        <mark key="[" line="9" column="275" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="D:/share/code/learning_Java/MyBatisTest/src/main/java/com/raohui/dao/StudentMapper.java" timestamp="1529309480376">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_48_Add.java" timestamp="1533110448089">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/tool/AopTestLogging.java" timestamp="1529475525949">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/webapp/WEB-INF/web.xml" timestamp="1529671308190">
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="48" />
+        <mark key="." line="43" column="48" />
+        <mark key="^" line="43" column="48" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_31_NumberOf1Between1AndN_Solution.java" timestamp="1532940455214">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_40_FindNumsAppearOnce.java" timestamp="1533023540511">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="27" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/spring/applicationContext-web.xml" timestamp="1529670931604">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="62" />
+        <mark key="." line="11" column="62" />
+        <mark key="^" line="11" column="62" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/webapp/WEB-INF/jsp/student.jsp" timestamp="1529633182530">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/tool/CustomEvent.java" timestamp="1529459779209">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="31" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/webapp/WEB-INF/jsp/error.jsp" timestamp="1529634891715">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_34_FirstNotRepeatingChar.java" timestamp="1532943850448">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/ReOrderArray.java" timestamp="1531212577148">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test4.java" timestamp="1533820667665">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+        <mark key="^" line="22" column="32" />
+      </file>
+      <file name="D:/share/code/learning_Java/DesignPatternTest/src/main/java/com/raohui/simplefactorymode/TriangleGraphic.java" timestamp="1533545248520">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1547179299898">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/webapp/WEB-INF/web.xml" timestamp="1529592358621">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="60" />
+        <mark key="^" line="4" column="60" />
+        <mark key="." line="4" column="60" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/jdbc.properties" timestamp="1529668578022">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
+      <file name="D:/share/code/learning_Java/DesignPatternTest/src/main/java/com/raohui/Interpretermode/ExpressionNode.java" timestamp="1547177971791">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/pom.xml" timestamp="1529673110965">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="115" column="7" />
+        <mark key="." line="116" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/tool/AopTestLoggingAutoProxy.java" timestamp="1529475603675">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/applicationContext-datasource.xml" timestamp="1529668583898">
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="25" column="52" />
+        <mark key="^" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_38_TreeDepth.java" timestamp="1533007143313">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/tool/TestSpring.java" timestamp="1529553829209">
+        <mark key="[" line="65" column="44" />
+        <mark key="]" line="66" column="32" />
+        <mark key="." line="66" column="32" />
+        <mark key="^" line="66" column="32" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/PrintMatrix.java" timestamp="1531640928568">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+      </file>
+      <file name="D:/share/code/learning_Java/DynamicPlanTest/src/main/java/com/raohui/App.java" timestamp="1533740557833">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="47" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_30_FindGreatestSumOfSubArray.java" timestamp="1532919142118">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+      </file>
+      <file name="D:/share/code/learning_Java/DynamicPlanTest/src/main/java/com/raohui/BackPack.java" timestamp="1533864580931">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/applicationContext.xml" timestamp="1529669431743">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_1_FindNumber.java" timestamp="1532915068014">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_32_PrintMinNumber.java" timestamp="1532940999955">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="29" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/Permutation_27.java" timestamp="1532858696860">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="10" column="11" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/HasSubtree.java" timestamp="1531624941549">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/spring/applicationContext-service.xml" timestamp="1529670880931">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="59" />
+        <mark key="^" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+      </file>
+      <file name="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/PrintFromTopToBottom_22.java" timestamp="1531645913966">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/mybatis-config.xml" timestamp="1529672763278">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1547178173476">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/share/code/learning_Java/SpringTest/src/main/webapp/WEB-INF/jsp/pages/final.html" timestamp="1529636587155">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="8" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="57" column="26" filename="D:/share/code/learning_Java/Socket/src/main/java/com/raohui/UdpSocketTest.java" />
+      <jump line="0" column="0" filename="D:/share/code/learning_Java/Socket/src/main/java/com/raohui/UdpSocketTest.java" />
+      <jump line="29" column="0" filename="D:/share/code/learning_Java/Socket/src/main/java/com/raohui/App.java" />
+      <jump line="0" column="1" filename="D:/share/code/learning_Java/Socket/src/main/java/com/raohui/App.java" />
+      <jump line="803" column="16" filename="D:/jdk1.8.0_171_windows/src.zip!/java/io/PrintStream.java" />
+      <jump line="39" column="4" filename="D:/share/code/learning_Java/MyBatisTest/pom.xml" />
+      <jump line="39" column="6" filename="D:/share/code/learning_Java/MyBatisTest/src/test/com/raohui/TestMybatls.java" />
+      <jump line="29" column="14" filename="D:/share/code/learning_Java/MyBatisTest/src/test/com/raohui/TestMybatls.java" />
+      <jump line="52" column="0" filename="D:/share/code/learning_Java/MyBatisTest/src/test/com/raohui/TestMybatls.java" />
+      <jump line="17" column="14" filename="D:/share/code/learning_Java/MyBatisTest/src/main/java/com/raohui/mapper/CourseMapper.xml" />
+      <jump line="54" column="22" filename="D:/share/code/learning_Java/MyBatisTest/src/main/java/com/raohui/model/Student.java" />
+      <jump line="57" column="0" filename="D:/share/code/learning_Java/MyBatisTest/src/main/java/com/raohui/model/Student.java" />
+      <jump line="14" column="20" filename="D:/share/code/learning_Java/MyBatisTest/src/main/resources/mybatis-config.xml" />
+      <jump line="38" column="10" filename="D:/share/code/learning_Java/MyBatisTest/src/main/java/com/raohui/mapper/StudentMapper.xml" />
+      <jump line="2" column="18" filename="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/model/Test.java" />
+      <jump line="49" column="47" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="33" column="12" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="66" column="34" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="42" column="8" filename="D:/share/code/learning_Java/SpringTest/src/test/com/raohui/TestSpring.java" />
+      <jump line="52" column="0" filename="D:/share/code/learning_Java/SpringTest/src/test/com/raohui/TestSpring.java" />
+      <jump line="24" column="10" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="20" column="4" filename="D:/share/code/learning_Java/SpringTest/src/test/com/raohui/TestSpring.java" />
+      <jump line="88" column="7" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="77" column="49" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="80" column="6" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="91" column="10" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="98" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="73" column="12" filename="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/template/StudentJDBCTemple.java" />
+      <jump line="76" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/template/StudentJDBCTemple.java" />
+      <jump line="17" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="97" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="19" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="10" column="7" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="92" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="104" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="5" column="7" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="94" column="53" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="103" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="64" column="19" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="68" column="7" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="7" column="59" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="95" column="7" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="106" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/Beans.xml" />
+      <jump line="23" column="34" filename="D:/share/code/learning_Java/SpringTest/src/test/com/raohui/TestSpring.java" />
+      <jump line="55" column="29" filename="D:/share/code/learning_Java/SpringTest/src/test/com/raohui/TestSpring.java" />
+      <jump line="71" column="0" filename="D:/share/code/learning_Java/SpringTest/src/test/com/raohui/TestSpring.java" />
+      <jump line="107" column="7" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/beans.xml" />
+      <jump line="27" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/beans.xml" />
+      <jump line="91" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/beans.xml" />
+      <jump line="68" column="28" filename="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/template/StudentJDBCTemplate.java" />
+      <jump line="89" column="11" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/beans.xml" />
+      <jump line="47" column="42" filename="D:/share/code/learning_Java/SpringTest/src/test/com/raohui/TestSpring.java" />
+      <jump line="8" column="20" filename="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/dao/StudentDao.java" />
+      <jump line="58" column="22" filename="D:/share/code/learning_Java/SpringTest/src/main/java/com/raohui/template/StudentJDBCTemplate.java" />
+      <jump line="106" column="10" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/beans.xml" />
+      <jump line="1" column="0" filename="D:/share/code/learning_Java/SpringTest/src/main/resources/beans.xml" />
+      <jump line="39" column="5" filename="D:/share/code/learning_Java/SpringTest/src/main/webapp/WEB-INF/SpringTest-servlet.xml" />
+      <jump line="3" column="0" filename="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/applicationContext.xml" />
+      <jump line="1" column="15" filename="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/mybatis-config.xml" />
+      <jump line="0" column="0" filename="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/mybatis-config.xml" />
+      <jump line="2" column="0" filename="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/logback.xml" />
+      <jump line="5" column="0" filename="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/logback.xml" />
+      <jump line="0" column="0" filename="D:/share/code/learning_Java/SpringMybatisExample/src/main/resources/logback.xml" />
+      <jump line="4" column="39" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/Power.java" />
+      <jump line="6" column="6" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/TailToHeadList.java" />
+      <jump line="6" column="14" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/FindKthToTail.java" />
+      <jump line="23" column="14" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/FindPath_24.java" />
+      <jump line="2" column="13" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/AliTest.java" />
+      <jump line="21" column="12" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_37_GetNumberOfK.java" />
+      <jump line="6" column="0" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_49_StrToInt.java" />
+      <jump line="232" column="36" filename="D:/jdk1.8.0_171_windows/src.zip!/java/lang/reflect/Proxy.java" />
+      <jump line="1" column="0" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test2.java" />
+      <jump line="3" column="24" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test2.java" />
+      <jump line="63" column="27" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test2.java" />
+      <jump line="73" column="0" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test2.java" />
+      <jump line="2" column="0" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test2.java" />
+      <jump line="72" column="26" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test2.java" />
+      <jump line="60" column="24" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test2.java" />
+      <jump line="4" column="28" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test2.java" />
+      <jump line="0" column="0" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/neteasy_2019_test2.java" />
+      <jump line="12" column="55" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_56_deleteDuplication.java" />
+      <jump line="11" column="35" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/tengxun_fall_2019_test3.java" />
+      <jump line="13" column="15" filename="D:/share/code/learning_Java/NiuCode/src/main/java/com/raohui/_62_GetMedian.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text>row</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDw9XD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>movingCountHelper(threshold,rows,cols,row+1,col,viewed)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIHRlc3RfZ2FuZyB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2FzZUZvcm1hdC5MT1dFUl9VTkRFUlNDT1JFLnRvKENhc2VGb3JtYXQuTE9XRVJfQ0FNRUwsICJ0ZXN0X2RhdGEiKSk7Ly90ZXN0RGF0YQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIGYgbW92aW5nQ291bnRIZWxwZXIoaW50IHRocmVzaG9sZCwgaW50IHJvd3MsIGludCBjb2xzLCBpbnQgaSwgaW50IGkxLCBpbnRbXSB2aWV3ZWQpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGstLTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaysrOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDw9XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDw9XD4=</last-pattern>
+      <last-replace>10</last-replace>
+      <last-substitute>2</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDx4bWxuc1w+</entry>
+        <entry>2</entry>
+        <entry encoding="base64">XDw9XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5nL1xcLy8vcw==</entry>
+        <entry encoding="base64">JzwsJz5nL1wvLy8vcw==</entry>
+        <entry encoding="base64">JzwsJz5zLzIvMTAvZw==</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
