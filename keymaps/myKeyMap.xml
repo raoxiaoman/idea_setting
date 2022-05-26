@@ -1,9 +1,0 @@
-<keymap version="1" name="myKeyMap" parent="Visual Studio">
-  <action id="NewElementInMenuGroup">
-    <keyboard-shortcut first-keystroke="ctrl alt comma" />
-  </action>
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
-</keymap>
