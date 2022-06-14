@@ -2,6 +2,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
+  <action id="ShowColorPicker">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
