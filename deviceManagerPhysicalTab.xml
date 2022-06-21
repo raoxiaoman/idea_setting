@@ -23,6 +23,17 @@
         <target value="Android API 32" />
         <api value="32" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="BH9090VG9E" />
+          </Key>
+        </key>
+        <name value="Sony G8441" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
