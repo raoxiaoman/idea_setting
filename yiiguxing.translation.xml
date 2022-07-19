@@ -3,11 +3,12 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="放映机" />
+      <item value="fang" />
       <item value="edgeSoftness" />
       <item value="Anaglyph" />
       <item value="sharpen" />
       <item value="圆角矩形" />
-      <item value="放映机" />
       <item value="fang'yi'ji" />
       <item value="因子" />
       <item value="yin'zi" />
@@ -25,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="85" />
       </map>
     </option>
   </component>
