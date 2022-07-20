@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="黑白格" />
+      <item value="hei" />
       <item value="边缘检测" />
       <item value="查找边缘" />
       <item value="描边" />
@@ -18,7 +20,6 @@
       <item value="rgb " />
       <item value="rgb fe" />
       <item value="rg" />
-      <item value="黑白格" />
       <item value="黑白ge" />
       <item value="旋转角度" />
       <item value="旋转角" />
@@ -50,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="169" />
       </map>
     </option>
   </component>
