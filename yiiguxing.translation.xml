@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="描边" />
+      <item value="miao'biao" />
       <item value="rgb描边" />
       <item value="rgbmiao'b" />
       <item value="rgb" />
@@ -46,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="142" />
       </map>
     </option>
   </component>
