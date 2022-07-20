@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="边缘检测" />
+      <item value="查找边缘" />
       <item value="描边" />
       <item value="miao'biao" />
       <item value="rgb描边" />
@@ -48,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="155" />
       </map>
     </option>
   </component>
