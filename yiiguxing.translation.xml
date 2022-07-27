@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="旋转" />
+      <item value="xuan'z" />
       <item value="隐藏" />
       <item value="yin'c" />
       <item value="yin'chang" />
@@ -51,13 +53,11 @@
       <item value="yin'zi" />
       <item value="ying'zi" />
       <item value="放大镜&#10;" />
-      <item value="放大jing" />
-      <item value="模糊" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="251" />
       </map>
     </option>
   </component>
