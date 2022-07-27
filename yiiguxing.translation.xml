@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="隐藏" />
+      <item value="yin'c" />
+      <item value="yin'chang" />
+      <item value="yin'ch" />
+      <item value="yin'cha" />
+      <item value="ying'c" />
       <item value="语言" />
       <item value="yu" />
       <item value="因子" />
@@ -47,17 +53,11 @@
       <item value="放大镜&#10;" />
       <item value="放大jing" />
       <item value="模糊" />
-      <item value="Mo" />
-      <item value="开幕" />
-      <item value="ka" />
-      <item value="c" />
-      <item value="Sticker" />
-      <item value="Serialized Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="246" />
       </map>
     </option>
   </component>
