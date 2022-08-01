@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="后缀" />
       <item value="间隔" />
       <item value="闪烁" />
       <item value="shan's" />
@@ -52,12 +53,11 @@
       <item value="旋转角" />
       <item value="xuan'zh'j'a" />
       <item value="xuan" />
-      <item value="xuan'c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="318" />
       </map>
     </option>
   </component>
