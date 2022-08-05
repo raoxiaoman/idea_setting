@@ -3,12 +3,22 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="十字星特效&#10;" />
+      <item value="十字星" />
+      <item value="shi'zi" />
+      <item value="s" />
+      <item value="sh" />
+      <item value="s'g" />
+      <item value="modifies the overall strength of the stars" />
+      <item value="modifies the number of stars that are visible" />
+      <item value="闪烁" />
+      <item value="sha" />
+      <item value="shan'c" />
+      <item value="星光" />
       <item value="实现" />
       <item value="后缀" />
       <item value="间隔" />
-      <item value="闪烁" />
       <item value="shan's" />
-      <item value="sh" />
       <item value="星光闪烁" />
       <item value="星光shan's" />
       <item value="星光sha" />
@@ -43,21 +53,11 @@
       <item value="rgb" />
       <item value="r'g" />
       <item value="rgbmiao'bian" />
-      <item value="rgb⏱" />
-      <item value="rgb 分离" />
-      <item value="rgb feng'li" />
-      <item value="rgb " />
-      <item value="rgb fe" />
-      <item value="rg" />
-      <item value="黑白ge" />
-      <item value="旋转角度" />
-      <item value="旋转角" />
-      <item value="xuan'zh'j'a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="378" />
       </map>
     </option>
   </component>
