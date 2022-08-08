@@ -1,14 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="574" />
-    <option name="newTranslationDialogY" value="395" />
+    <option name="newTranslationDialogX" value="793" />
+    <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="blotche" />
+      <item value="blo" />
+      <item value="b" />
+      <item value="斑点" />
+      <item value="半点" />
       <item value="BlOTCHS" />
       <item value="BlOTCH" />
       <item value="BlO" />
       <item value="B" />
       <item value="白色" />
-      <item value="b" />
       <item value="sc" />
       <item value="scree" />
       <item value="screen scratch" />
@@ -49,15 +53,11 @@
       <item value="星光shao" />
       <item value="xing'g" />
       <item value="变量" />
-      <item value="bian" />
-      <item value="bian'l" />
-      <item value="旋转" />
-      <item value="xuan'z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="CHINESE" value="426" />
+        <entry key="ENGLISH" value="418" />
       </map>
     </option>
   </component>
