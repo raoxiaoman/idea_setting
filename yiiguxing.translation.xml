@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="filmdamage" />
       <item value="电影滤镜" />
       <item value="电影lv'j" />
       <item value="电影" />
@@ -52,11 +53,10 @@
       <item value="hei" />
       <item value="边缘检测" />
       <item value="查找边缘" />
-      <item value="描边" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
+        <entry key="CHINESE" value="393" />
         <entry key="ENGLISH" value="388" />
       </map>
     </option>
