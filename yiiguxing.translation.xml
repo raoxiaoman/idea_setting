@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="白色" />
+      <item value="b" />
       <item value="sc" />
       <item value="scree" />
       <item value="screen scratch" />
@@ -51,13 +53,11 @@
       <item value="yin'c" />
       <item value="yin'chang" />
       <item value="yin'ch" />
-      <item value="yin'cha" />
-      <item value="ying'c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="395" />
       </map>
     </option>
   </component>
