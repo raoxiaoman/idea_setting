@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="圆角矩形" />
+      <item value="yua" />
       <item value="开关灯" />
       <item value="kai'guan'd" />
       <item value="k" />
@@ -51,13 +53,11 @@
       <item value="modifies the overall strength of the stars" />
       <item value="modifies the number of stars that are visible" />
       <item value="闪烁" />
-      <item value="sha" />
-      <item value="shan'c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="463" />
       </map>
     </option>
   </component>
