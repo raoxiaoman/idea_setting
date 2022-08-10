@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="十字星" />
+      <item value="shi'zhi" />
+      <item value="sh" />
+      <item value="shader 十字xin" />
+      <item value="shader shi'zi" />
+      <item value="shader " />
       <item value="光线扫描" />
       <item value="光线s'h" />
       <item value="guang'xian" />
@@ -47,17 +53,11 @@
       <item value="dither" />
       <item value="ditb" />
       <item value="di" />
-      <item value="diter" />
-      <item value="filmdamage" />
-      <item value="电影滤镜" />
-      <item value="电影lv'j" />
-      <item value="电影" />
-      <item value="电影噪点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="514" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="520" />
       </map>
     </option>
   </component>
