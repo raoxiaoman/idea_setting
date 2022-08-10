@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="台球" />
+      <item value="t" />
+      <item value="胶片生活" />
+      <item value="胶片生活F" />
+      <item value="jiao'p" />
       <item value="圆角矩形" />
       <item value="yua" />
       <item value="开关灯" />
@@ -48,16 +53,11 @@
       <item value="十字星" />
       <item value="shi'zi" />
       <item value="s" />
-      <item value="sh" />
-      <item value="s'g" />
-      <item value="modifies the overall strength of the stars" />
-      <item value="modifies the number of stars that are visible" />
-      <item value="闪烁" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="463" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="487" />
       </map>
     </option>
   </component>
