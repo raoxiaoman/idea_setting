@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="film" />
       <item value="台球" />
       <item value="t" />
       <item value="胶片生活" />
@@ -52,11 +53,10 @@
       <item value="十字星特效&#10;" />
       <item value="十字星" />
       <item value="shi'zi" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="494" />
+        <entry key="CHINESE" value="495" />
         <entry key="ENGLISH" value="487" />
       </map>
     </option>
