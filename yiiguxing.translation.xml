@@ -3,11 +3,16 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="六芒星" />
+      <item value="liu'mang'x" />
+      <item value="liu'lang'm" />
+      <item value="liu" />
+      <item value="五角星" />
+      <item value="wu'jio" />
+      <item value="六角星" />
       <item value="旋转&#10;" />
       <item value="xuan'z" />
       <item value="xuan'c" />
-      <item value="六芒星" />
-      <item value="liu" />
       <item value="高斯模糊" />
       <item value="gao'si'mo" />
       <item value="gao's" />
@@ -19,7 +24,6 @@
       <item value="闪烁" />
       <item value="shan's" />
       <item value="sha's" />
-      <item value="六角星" />
       <item value="liu'jiao'x" />
       <item value="十字星" />
       <item value="shi'zhi" />
@@ -49,15 +53,11 @@
       <item value="头发丝" />
       <item value="tou'fa's" />
       <item value="tou'f" />
-      <item value="tu" />
-      <item value="ti" />
-      <item value="blotche" />
-      <item value="blo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="617" />
-        <entry key="ENGLISH" value="609" />
+        <entry key="CHINESE" value="661" />
+        <entry key="ENGLISH" value="653" />
       </map>
     </option>
   </component>
