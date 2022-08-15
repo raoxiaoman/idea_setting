@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="六芒星" />
+      <item value="liu" />
+      <item value="高斯模糊" />
+      <item value="gao'si'mo" />
+      <item value="gao's" />
+      <item value="gao'shi" />
       <item value="facebook版本过低" />
       <item value="facebook" />
       <item value="face" />
@@ -12,7 +18,6 @@
       <item value="sha's" />
       <item value="六角星" />
       <item value="liu'jiao'x" />
-      <item value="liu" />
       <item value="十字星" />
       <item value="shi'zhi" />
       <item value="sh" />
@@ -48,16 +53,11 @@
       <item value="b" />
       <item value="斑点" />
       <item value="半点" />
-      <item value="BlOTCHS" />
-      <item value="BlOTCH" />
-      <item value="BlO" />
-      <item value="B" />
-      <item value="白色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="606" />
+        <entry key="ENGLISH" value="598" />
       </map>
     </option>
   </component>
