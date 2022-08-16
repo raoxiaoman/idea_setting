@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="384" />
     <histories>
       <item value="六芒星" />
+      <item value="liu'ma" />
+      <item value="l" />
       <item value="liu'mang'x" />
       <item value="liu'lang'm" />
       <item value="liu" />
@@ -51,13 +53,11 @@
       <item value="shan'ban" />
       <item value="头发丝噪点" />
       <item value="头发丝" />
-      <item value="tou'fa's" />
-      <item value="tou'f" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="661" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="681" />
+        <entry key="ENGLISH" value="673" />
       </map>
     </option>
   </component>
