@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="铃铛" />
+      <item value="lin'dang" />
+      <item value="linda" />
+      <item value="ling'd" />
+      <item value="ling't" />
       <item value="优先级" />
       <item value="gao" />
       <item value="gao'x" />
@@ -48,16 +53,11 @@
       <item value="胶片生活F" />
       <item value="jiao'p" />
       <item value="圆角矩形" />
-      <item value="yua" />
-      <item value="开关灯" />
-      <item value="kai'guan'd" />
-      <item value="k" />
-      <item value="闪白" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="750" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="756" />
       </map>
     </option>
   </component>
