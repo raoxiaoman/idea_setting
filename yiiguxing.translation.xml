@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="更新已经完成" />
+      <item value="您的app已经更新完成,是否安装" />
       <item value="铃铛" />
       <item value="lin'dang" />
       <item value="linda" />
@@ -51,8 +53,6 @@
       <item value="t" />
       <item value="胶片生活" />
       <item value="胶片生活F" />
-      <item value="jiao'p" />
-      <item value="圆角矩形" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660532562837" />
+    <option name="lastTrimTime" value="1661133447324" />
   </component>
 </application>
