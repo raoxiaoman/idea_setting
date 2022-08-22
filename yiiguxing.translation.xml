@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="问号" />
       <item value="更新已经完成" />
       <item value="您的app已经更新完成,是否安装" />
       <item value="铃铛" />
@@ -52,12 +53,11 @@
       <item value="台球" />
       <item value="t" />
       <item value="胶片生活" />
-      <item value="胶片生活F" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="764" />
-        <entry key="ENGLISH" value="756" />
+        <entry key="CHINESE" value="771" />
+        <entry key="ENGLISH" value="763" />
       </map>
     </option>
   </component>
