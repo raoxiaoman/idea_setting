@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="放大和缩小" />
+      <item value="放大和suo'x" />
+      <item value="放大" />
       <item value="zoomdong" />
       <item value="zoom" />
       <item value="zo" />
@@ -50,18 +53,15 @@
       <item value="shader " />
       <item value="光线扫描" />
       <item value="光线s'h" />
-      <item value="guang'xian" />
-      <item value="guan'xian" />
-      <item value="guan'xi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="764" />
+        <entry key="CHINESE" value="785" />
+        <entry key="ENGLISH" value="776" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661133447324" />
+    <option name="lastTrimTime" value="1661743498842" />
   </component>
 </application>
