@@ -3,6 +3,18 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="alpha" />
+      <item value="alp" />
+      <item value="a" />
+      <item value="aplha" />
+      <item value="ap" />
+      <item value="aphla" />
+      <item value="aphla;" />
+      <item value="透" />
+      <item value="透明" />
+      <item value="透明度" />
+      <item value="tou'm" />
+      <item value="tong'mu" />
       <item value="vignette" />
       <item value="Billiards" />
       <item value="放大和缩小" />
@@ -41,23 +53,11 @@
       <item value="gao'shi" />
       <item value="facebook版本过低" />
       <item value="facebook" />
-      <item value="face" />
-      <item value="星星" />
-      <item value="闪烁" />
-      <item value="shan's" />
-      <item value="sha's" />
-      <item value="liu'jiao'x" />
-      <item value="十字星" />
-      <item value="shi'zhi" />
-      <item value="sh" />
-      <item value="shader 十字xin" />
-      <item value="shader shi'zi" />
-      <item value="shader " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="788" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="801" />
       </map>
     </option>
   </component>
