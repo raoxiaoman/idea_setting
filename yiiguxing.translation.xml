@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="Billiards" />
       <item value="放大和缩小" />
       <item value="放大和suo'x" />
       <item value="放大" />
@@ -52,11 +53,10 @@
       <item value="shader shi'zi" />
       <item value="shader " />
       <item value="光线扫描" />
-      <item value="光线s'h" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="785" />
+        <entry key="CHINESE" value="786" />
         <entry key="ENGLISH" value="776" />
       </map>
     </option>
