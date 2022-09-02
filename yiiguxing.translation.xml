@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="图形" />
+      <item value="tu" />
       <item value="alpha" />
       <item value="alp" />
       <item value="a" />
@@ -51,13 +53,11 @@
       <item value="gao'si'mo" />
       <item value="gao's" />
       <item value="gao'shi" />
-      <item value="facebook版本过低" />
-      <item value="facebook" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="814" />
-        <entry key="ENGLISH" value="801" />
+        <entry key="CHINESE" value="817" />
+        <entry key="ENGLISH" value="804" />
       </map>
     </option>
   </component>
