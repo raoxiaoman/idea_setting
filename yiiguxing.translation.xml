@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="Texture" />
       <item value="图形" />
       <item value="tu" />
       <item value="alpha" />
@@ -52,16 +53,15 @@
       <item value="高斯模糊" />
       <item value="gao'si'mo" />
       <item value="gao's" />
-      <item value="gao'shi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="817" />
+        <entry key="CHINESE" value="818" />
         <entry key="ENGLISH" value="804" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661743498842" />
+    <option name="lastTrimTime" value="1662344666663" />
   </component>
 </application>
