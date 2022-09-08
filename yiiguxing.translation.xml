@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="奈飞" />
+      <item value="nai'fe" />
+      <item value="nai'fen" />
+      <item value="na" />
       <item value="变小" />
       <item value="内部使用" />
       <item value="内部shio" />
@@ -49,15 +53,11 @@
       <item value="liu" />
       <item value="五角星" />
       <item value="wu'jio" />
-      <item value="六角星" />
-      <item value="旋转&#10;" />
-      <item value="xuan'z" />
-      <item value="xuan'c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="837" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="844" />
+        <entry key="ENGLISH" value="830" />
       </map>
     </option>
   </component>
