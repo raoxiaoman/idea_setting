@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="androidr" />
+    <option name="mostRecentlyUsed" value="TextureView" />
     <option name="nonFavorites">
       <list>
+        <option value="TextureView" />
         <option value="androidr" />
         <option value="android" />
         <option value="w" />
