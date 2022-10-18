@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="图像残留" />
       <item value="支持" />
       <item value="zhi'c" />
       <item value="見た目との歪みもここで調整すればいけると思う。" />
@@ -52,7 +53,6 @@
       <item value="lin'dang" />
       <item value="linda" />
       <item value="ling'd" />
-      <item value="ling't" />
     </histories>
     <option name="languageScores">
       <map>
