@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="误差值" />
+      <item value="wu'cha" />
+      <item value="误差" />
+      <item value="wu'c" />
       <item value="图像残留" />
       <item value="支持" />
       <item value="zhi'c" />
@@ -49,15 +53,11 @@
       <item value="问号" />
       <item value="更新已经完成" />
       <item value="您的app已经更新完成,是否安装" />
-      <item value="铃铛" />
-      <item value="lin'dang" />
-      <item value="linda" />
-      <item value="ling'd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="882" />
-        <entry key="ENGLISH" value="864" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="877" />
       </map>
     </option>
   </component>
