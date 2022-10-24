@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="完成" />
       <item value="Convert" />
       <item value="误差值" />
       <item value="wu'cha" />
@@ -52,16 +53,15 @@
       <item value="zo" />
       <item value="z" />
       <item value="问号" />
-      <item value="更新已经完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="896" />
-        <entry key="ENGLISH" value="877" />
+        <entry key="CHINESE" value="900" />
+        <entry key="ENGLISH" value="881" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665999075693" />
+    <option name="lastTrimTime" value="1666591973705" />
   </component>
 </application>
