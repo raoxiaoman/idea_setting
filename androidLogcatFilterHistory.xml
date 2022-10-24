@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CameraResultSaveFragment" />
+    <option name="mostRecentlyUsed" value="androidr" />
     <option name="nonFavorites">
       <list>
-        <option value="CameraResultSaveFragment" />
         <option value="androidr" />
+        <option value="CameraResultSaveFragment" />
         <option value="CameraResultSavePresenter" />
         <option value="MultiResourceDownloader" />
         <option value="下载进度" />
