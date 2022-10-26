@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="阈值" />
+      <item value="yu'zhi" />
       <item value="MILLISECONDS " />
       <item value="MICROSECONDS" />
       <item value="完成" />
@@ -51,13 +53,11 @@
       <item value="放大和suo'x" />
       <item value="放大" />
       <item value="zoomdong" />
-      <item value="zoom" />
-      <item value="zo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="902" />
-        <entry key="ENGLISH" value="881" />
+        <entry key="CHINESE" value="917" />
+        <entry key="ENGLISH" value="896" />
       </map>
     </option>
   </component>
