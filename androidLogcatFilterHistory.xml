@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CoverMultiThreadDownloader " />
+    <option name="mostRecentlyUsed" value="android" />
     <option name="nonFavorites">
       <list>
+        <option value="android" />
+        <option value="androidr" />
         <option value="CoverMultiThreadDownloader " />
         <option value="CoverMultiThreadDownloader |  " />
         <option value="CoverMultiThreadDownloader" />
-        <option value="androidr" />
         <option value="level:debug" />
         <option value="level:" />
         <option value="CameraThread" />
@@ -16,7 +17,6 @@
         <option value="下载进度" />
         <option value="android`" />
         <option value="TextureView" />
-        <option value="android" />
         <option value="w" />
         <option value="open gl" />
         <option value="gl " />
