@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="镜像" />
+      <item value="jing'xiang" />
+      <item value="jin'x" />
+      <item value="qian'hzi" />
+      <item value="jin" />
+      <item value="jin'zhi" />
       <item value="阈值" />
       <item value="yu'zhi" />
       <item value="MILLISECONDS " />
@@ -47,21 +53,15 @@
       <item value="透明度" />
       <item value="tou'm" />
       <item value="tong'mu" />
-      <item value="vignette" />
-      <item value="Billiards" />
-      <item value="放大和缩小" />
-      <item value="放大和suo'x" />
-      <item value="放大" />
-      <item value="zoomdong" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="CHINESE" value="962" />
+        <entry key="ENGLISH" value="941" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666591973705" />
+    <option name="lastTrimTime" value="1667205201233" />
   </component>
 </application>
