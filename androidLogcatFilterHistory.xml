@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="androidr" />
+    <option name="mostRecentlyUsed" value="videomaker" />
     <option name="nonFavorites">
       <list>
+        <option value="videomaker" />
         <option value="androidr" />
         <option value="android" />
         <option value="CoverMultiThreadDownloader " />
@@ -22,7 +23,6 @@
         <option value="gl " />
         <option value="gl error" />
         <option value="CameraActivity" />
-        <option value="VideoEffectObjectAdapter" />
       </list>
     </option>
   </component>
