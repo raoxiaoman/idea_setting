@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="androidr" />
+    <option name="mostRecentlyUsed" value="CameraPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="CameraPresenter" />
         <option value="androidr" />
         <option value="videomaker" />
         <option value="android" />
@@ -22,7 +23,6 @@
         <option value="open gl" />
         <option value="gl " />
         <option value="gl error" />
-        <option value="CameraActivity" />
       </list>
     </option>
   </component>
