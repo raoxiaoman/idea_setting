@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="失败" />
+      <item value="s" />
       <item value="镜像" />
       <item value="jing'xiang" />
       <item value="jin'x" />
@@ -51,13 +53,11 @@
       <item value="透" />
       <item value="透明" />
       <item value="透明度" />
-      <item value="tou'm" />
-      <item value="tong'mu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
-        <entry key="ENGLISH" value="941" />
+        <entry key="CHINESE" value="968" />
+        <entry key="ENGLISH" value="947" />
       </map>
     </option>
   </component>
