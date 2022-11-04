@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="level:debug  package:videoeditor.videomaker.videoeditorforyoutube CameraResultSavePresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="level:debug  package:videoeditor.videomaker.videoeditorforyoutube CameraResultSavePresenter" />
         <option value="level:debug  package:videoeditor.videomaker.videoeditorforyoutube CameraActivity" />
         <option value="level:warn  package:videoeditor.videomaker.videoeditorforyoutube CameraActivity" />
         <option value="level:warn  package:videoeditor.videomaker.videoeditorforyoutube " />
@@ -22,7 +23,6 @@
         <option value="MultiResourceDownloader" />
         <option value="下载进度" />
         <option value="android`" />
-        <option value="TextureView" />
       </list>
     </option>
   </component>
