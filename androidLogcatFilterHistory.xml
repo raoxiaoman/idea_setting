@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="androidr" />
+    <option name="mostRecentlyUsed" value="level:debug  package:videoeditor.videomaker.videoeditorforyoutube CameraResultSavePresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="level:debug  package:videoeditor.videomaker.videoeditorforyoutube CameraActivity" />
+        <option value="level:warn  package:videoeditor.videomaker.videoeditorforyoutube CameraActivity" />
+        <option value="level:warn  package:videoeditor.videomaker.videoeditorforyoutube " />
+        <option value="level:warn  androidr" />
         <option value="androidr" />
         <option value="CameraPresenter" />
         <option value="videomaker" />
@@ -19,10 +23,6 @@
         <option value="下载进度" />
         <option value="android`" />
         <option value="TextureView" />
-        <option value="w" />
-        <option value="open gl" />
-        <option value="gl " />
-        <option value="gl error" />
       </list>
     </option>
   </component>
