@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="操作" />
       <item value="浮层" />
       <item value="fu'c" />
       <item value="失败" />
@@ -52,12 +53,11 @@
       <item value="ap" />
       <item value="aphla" />
       <item value="aphla;" />
-      <item value="透" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="972" />
-        <entry key="ENGLISH" value="951" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="956" />
       </map>
     </option>
   </component>
