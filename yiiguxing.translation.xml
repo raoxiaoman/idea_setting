@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="aspect" />
       <item value="drain" />
       <item value="v" />
       <item value="放大" />
@@ -52,11 +53,10 @@
       <item value="alpha" />
       <item value="alp" />
       <item value="a" />
-      <item value="aplha" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="988" />
+        <entry key="CHINESE" value="989" />
         <entry key="ENGLISH" value="966" />
       </map>
     </option>
