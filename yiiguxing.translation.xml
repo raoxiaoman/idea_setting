@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="生成" />
       <item value="aspect" />
       <item value="drain" />
       <item value="v" />
@@ -52,16 +53,15 @@
       <item value="tu" />
       <item value="alpha" />
       <item value="alp" />
-      <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="989" />
-        <entry key="ENGLISH" value="966" />
+        <entry key="CHINESE" value="995" />
+        <entry key="ENGLISH" value="972" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668047408058" />
+    <option name="lastTrimTime" value="1668568366484" />
   </component>
 </application>
