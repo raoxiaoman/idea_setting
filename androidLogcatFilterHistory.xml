@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube level:debug SampleGLView" />
+    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube level:debug androidr" />
     <option name="nonFavorites">
       <list>
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug androidr" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug SampleGLView" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:warn androidr" />
@@ -22,7 +23,6 @@
         <option value="CoverMultiThreadDownloader |  " />
         <option value="CoverMultiThreadDownloader" />
         <option value="level:debug" />
-        <option value="level:" />
       </list>
     </option>
   </component>
