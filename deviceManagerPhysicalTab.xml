@@ -89,6 +89,17 @@
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="7ceed024" />
+          </Key>
+        </key>
+        <name value="OPPO OPPO R9s" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
