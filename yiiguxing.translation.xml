@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="COVER TEMPLATE ITEM CONFIG PRE" />
+      <item value="后缀&#10;" />
+      <item value="hou'zui" />
+      <item value="wei'zui" />
+      <item value="wei" />
       <item value="直径&#10;" />
       <item value="向上拖拽" />
       <item value="向上tuo'z" />
@@ -48,20 +53,15 @@
       <item value="奈飞" />
       <item value="nai'fe" />
       <item value="nai'fen" />
-      <item value="na" />
-      <item value="变小" />
-      <item value="内部使用" />
-      <item value="内部shio" />
-      <item value="Texture" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1008" />
-        <entry key="ENGLISH" value="985" />
+        <entry key="CHINESE" value="1036" />
+        <entry key="ENGLISH" value="1014" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668568366484" />
+    <option name="lastTrimTime" value="1669601709415" />
   </component>
 </application>
