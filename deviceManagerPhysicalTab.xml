@@ -100,6 +100,17 @@
         <target value="Android 7.1.1" />
         <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8KE0220416014426" />
+          </Key>
+        </key>
+        <name value="HUAWEI ELE-AL00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
