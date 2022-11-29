@@ -3,6 +3,20 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="384" />
     <histories>
+      <item value="右下角" />
+      <item value="右xia" />
+      <item value="右xia'z" />
+      <item value="you" />
+      <item value="右xiu'a角" />
+      <item value="右角" />
+      <item value="右x'z角" />
+      <item value="右上角" />
+      <item value="右shang'jiao" />
+      <item value="右上" />
+      <item value="右上交" />
+      <item value="右shang'j" />
+      <item value="左上角" />
+      <item value="zuo" />
       <item value="COVER TEMPLATE ITEM CONFIG PRE" />
       <item value="后缀&#10;" />
       <item value="hou'zui" />
@@ -39,25 +53,11 @@
       <item value="误差" />
       <item value="wu'c" />
       <item value="图像残留" />
-      <item value="支持" />
-      <item value="zhi'c" />
-      <item value="見た目との歪みもここで調整すればいけると思う。" />
-      <item value="ここをマイナスの値にするとflipする" />
-      <item value="差分をいろいろと吸収する" />
-      <item value="恢复" />
-      <item value="关键帧" />
-      <item value="guan'j" />
-      <item value="GLITCH" />
-      <item value="缩小" />
-      <item value="su" />
-      <item value="奈飞" />
-      <item value="nai'fe" />
-      <item value="nai'fen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1036" />
-        <entry key="ENGLISH" value="1014" />
+        <entry key="CHINESE" value="1063" />
+        <entry key="ENGLISH" value="1041" />
       </map>
     </option>
   </component>
