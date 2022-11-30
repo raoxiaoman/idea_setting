@@ -121,6 +121,17 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="04157df465494d2f" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9250" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
