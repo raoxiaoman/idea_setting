@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraThread" />
+    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube level:debug Camera" />
     <option name="nonFavorites">
       <list>
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug Camera" />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraPresenter CameraResultSavePresenter" />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraPresenter" />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraThread" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug camera" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug " />
@@ -15,14 +19,10 @@
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraActivity" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraActivity SampleGLView" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug SampleGLView" />
-        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraPresenter" />
         <option value="level:debug  package:videoeditor.videomaker.videoeditorforyoutube androidr" />
         <option value="level:debug  package:videoeditor.videomaker.videoeditorforyoutube CameraResultSavePresenter" />
         <option value="level:debug  package:videoeditor.videomaker.videoeditorforyoutube CameraActivity" />
         <option value="level:warn  package:videoeditor.videomaker.videoeditorforyoutube CameraActivity" />
-        <option value="level:warn  package:videoeditor.videomaker.videoeditorforyoutube " />
-        <option value="level:warn  androidr" />
-        <option value="androidr" />
       </list>
     </option>
   </component>
