@@ -12,8 +12,8 @@
               <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
               <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
               <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
-              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
             </list>
@@ -27,6 +27,16 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="SPLITTER_PROPORTION" value="0.8978912" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="READ_ONLY_LOCK" value="false" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
     </option>
