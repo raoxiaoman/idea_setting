@@ -35,7 +35,7 @@
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
         <PlaceSettings>
-          <option name="READ_ONLY_LOCK" value="false" />
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
