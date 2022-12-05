@@ -36,6 +36,7 @@
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+          <option name="READ_ONLY_LOCK" value="false" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
