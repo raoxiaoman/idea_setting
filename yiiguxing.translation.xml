@@ -64,4 +64,22 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1669601709415" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670385199824" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogX" value="814" />
+    <option name="newTranslationDialogY" value="485" />
+    <histories>
+      <item value="生产者" />
+      <item value="sheng'c" />
+      <item value="消费者" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="30" />
+      </map>
+    </option>
+  </component>
 </application>
