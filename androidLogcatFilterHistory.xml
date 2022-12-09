@@ -1,15 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraPresenter" />
+    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraMediaManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraMediaManager" />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraM" />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraPresenter" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug android" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug takePicture" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube GLSurfaceView" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug androidr" />
-        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube CameraPresenter" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:warn androidr" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:warn " />
@@ -21,8 +23,6 @@
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug camera" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug camerath" />
         <option value="package:mine androidr" />
-        <option value="package:vi" />
-        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraActivity" />
       </list>
     </option>
   </component>
