@@ -71,21 +71,24 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="未" />
+      <item value="未完成的" />
+      <item value="wei" />
+      <item value="we" />
       <item value="残余" />
       <item value="can'yu" />
       <item value="cai'yu" />
       <item value="未完成" />
       <item value="为" />
       <item value="未使用" />
-      <item value="we" />
       <item value="生产者" />
       <item value="sheng'c" />
       <item value="消费者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="78" />
       </map>
     </option>
   </component>
