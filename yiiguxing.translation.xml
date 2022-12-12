@@ -65,12 +65,13 @@
     <option name="lastTrimTime" value="1669601709415" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670385199824" />
+    <option name="lastTrimTime" value="1670827075419" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Incompatible types in initialization (and no available implicit conversion)." />
       <item value="未" />
       <item value="未完成的" />
       <item value="wei" />
@@ -87,7 +88,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
+        <entry key="CHINESE" value="79" />
         <entry key="ENGLISH" value="78" />
       </map>
     </option>
