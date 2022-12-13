@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube level:warn " />
+    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraPresenter" />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug camera" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:warn " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:warn androidr" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug proce" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraMe" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraP" />
-        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraPresenter" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraMediaManager" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraM" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug " />
@@ -22,7 +23,6 @@
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraThread" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug Camera" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraPresenter CameraResultSavePresenter" />
-        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug" />
       </list>
     </option>
   </component>
