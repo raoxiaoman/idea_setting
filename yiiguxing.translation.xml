@@ -71,6 +71,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="修改" />
       <item value="Incompatible types in initialization (and no available implicit conversion)." />
       <item value="未" />
       <item value="未完成的" />
@@ -88,8 +89,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="84" />
       </map>
     </option>
   </component>
