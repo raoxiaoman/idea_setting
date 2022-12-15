@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:debug android" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug CameraP" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug CameraP" />
         <option value="package:mine level:debug android" />
         <option value="package:mine level:debug   CameraPresenter" />
         <option value="package:mine level:error  CameraPresenter" />
         <option value="package:mine level:debug CameraPresenter" />
         <option value="package:mine level:debug andr" />
-        <option value="package:mine level:debug CameraP" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug CameraP" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug androidr" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:debug Camera" />
