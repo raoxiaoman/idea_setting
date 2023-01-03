@@ -65,12 +65,13 @@
     <option name="lastTrimTime" value="1669601709415" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672215710434" />
+    <option name="lastTrimTime" value="1672745478465" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="通知" />
       <item value="diameter" />
       <item value="镜像" />
       <item value="jing'x" />
@@ -96,8 +97,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="105" />
       </map>
     </option>
   </component>
