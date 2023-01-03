@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn  androidr" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
+        <option value="package:mine" />
         <option value="package:mine level:warn  androidr" />
         <option value="package:mine level:error " />
         <option value="package:mine level:debug CameraThread" />
@@ -21,8 +23,6 @@
         <option value="package:mine level:debug  CameraPresenter" />
         <option value="package:mine level:debug  CameraP" />
         <option value="package:mine level:debug   CameraPresenter" />
-        <option value="package:mine level:error  CameraPresenter" />
-        <option value="package:mine level:debug CameraPresenter" />
       </list>
     </option>
   </component>
