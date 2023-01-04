@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine level:warn -38" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn -38" />
         <option value="package:mine level:warn " />
         <option value="package:mine level:e" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine level:debug  FPS" />
         <option value="package:mine level:debug  EGLBase" />
         <option value="package:mine level:debug  CameraPresenter " />
-        <option value="package:mine level:debug  CameraPresenter s" />
       </list>
     </option>
   </component>
