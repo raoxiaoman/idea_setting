@@ -71,6 +71,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="drain" />
+      <item value="dra" />
       <item value="通知" />
       <item value="diameter" />
       <item value="镜像" />
@@ -97,7 +99,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
+        <entry key="CHINESE" value="109" />
         <entry key="ENGLISH" value="105" />
       </map>
     </option>
