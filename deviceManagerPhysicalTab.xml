@@ -220,6 +220,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="NVBM7575JBPR4PFU" />
+          </Key>
+        </key>
+        <name value="OPPO CPH2015" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
