@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:debug " />
+        <option value="package:mine level:ERROR  " />
+        <option value="package:mine level:ERROR " />
         <option value="package:mine level:debug Camera" />
         <option value="package:mine level:warn" />
         <option value="package:mine level:debug CameraPresenter" />
@@ -21,8 +23,6 @@
         <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug a" />
         <option value="package:mine level:debug Lifecycle" />
-        <option value="package:mine level:debug android" />
-        <option value="package:mine level:debug CameraP" />
       </list>
     </option>
   </component>
