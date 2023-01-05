@@ -71,6 +71,10 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="mainArtists" />
+      <item value="Musician" />
+      <item value="album" />
+      <item value="genres" />
       <item value="drain" />
       <item value="dra" />
       <item value="通知" />
@@ -99,7 +103,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
+        <entry key="CHINESE" value="113" />
         <entry key="ENGLISH" value="105" />
       </map>
     </option>
