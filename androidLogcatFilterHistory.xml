@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:debug AudioPageFragment AudioEpidemicTrackFragment" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment" />
         <option value="package:mine level:debug AudioPageFragment AudioEpidemicTrackFragment" />
         <option value="package:mine level:debug AudioPageFragment " />
         <option value="package:mine level:debug AudioPageFragment" />
@@ -22,7 +23,6 @@
         <option value="package:mine level:warn -38" />
         <option value="package:mine level:e" />
         <option value="package:mine " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
