@@ -1,9 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
-    <option name="nonFavorites">
+    <option name="favorites">
       <list>
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine level:debug androidr" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | " />
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment" />
         <option value="package:mine level:debug AudioPageFragment AudioEpidemicTrackFragment" />
