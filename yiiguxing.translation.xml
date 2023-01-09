@@ -65,12 +65,13 @@
     <option name="lastTrimTime" value="1669601709415" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672745478465" />
+    <option name="lastTrimTime" value="1673256557093" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="容器" />
       <item value="mainArtists" />
       <item value="Musician" />
       <item value="album" />
@@ -103,8 +104,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="111" />
       </map>
     </option>
   </component>
