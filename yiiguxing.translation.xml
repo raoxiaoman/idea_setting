@@ -71,6 +71,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="   // converting 0.0f-1.0f zoom scale to the actual camera digital zoom scale&#10;                // (which will be for example, 1.0-10.0)" />
       <item value="容器" />
       <item value="mainArtists" />
       <item value="Musician" />
@@ -104,7 +105,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
+        <entry key="CHINESE" value="120" />
         <entry key="ENGLISH" value="111" />
       </map>
     </option>
