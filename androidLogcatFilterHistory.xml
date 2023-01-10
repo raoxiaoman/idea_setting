@@ -9,6 +9,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:debug " />
+        <option value="package:mine level:debug CameraActivity" />
         <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug webview" />
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | " />
@@ -27,7 +28,6 @@
         <option value="package:mine level:warn ANR" />
         <option value="package:mine level:warn " />
         <option value="package:mine level:error " />
-        <option value="package:mine ANR" />
       </list>
     </option>
   </component>
