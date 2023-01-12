@@ -5,9 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:warn  anddroidr" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug CameraThread" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug CameraThread" />
         <option value="package:mine level:warn  anddroidr" />
         <option value="package:mine level:debug anddroidr" />
         <option value="package:mine level:debug " />
@@ -27,7 +28,6 @@
         <option value="package:mine level:debug Camera" />
         <option value="package:mine level:warn" />
         <option value="package:mine level:debug CameraPresenter" />
-        <option value="package:mine level:warn ANR" />
       </list>
     </option>
   </component>
