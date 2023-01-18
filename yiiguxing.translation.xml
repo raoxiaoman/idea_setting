@@ -65,12 +65,13 @@
     <option name="lastTrimTime" value="1669601709415" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673256557093" />
+    <option name="lastTrimTime" value="1674021867657" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="coordinates" />
       <item value="全透明" />
       <item value="quan'tou'm" />
       <item value="   // converting 0.0f-1.0f zoom scale to the actual camera digital zoom scale&#10;                // (which will be for example, 1.0-10.0)" />
@@ -107,7 +108,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
+        <entry key="CHINESE" value="129" />
         <entry key="ENGLISH" value="119" />
       </map>
     </option>
