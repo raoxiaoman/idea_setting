@@ -8,8 +8,8 @@
     <option name="mostRecentlyUsed" value="package:mine level:debug " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine level:debug " />
+        <option value="package:mine" />
         <option value="package:mine level:debug TAG" />
         <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug CameraThread" />
