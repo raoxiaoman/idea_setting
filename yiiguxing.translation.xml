@@ -71,6 +71,12 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="透视投影" />
+      <item value="tou" />
+      <item value="tou'ying" />
+      <item value="正交投影" />
+      <item value="正交tou" />
+      <item value="projectionMatrix" />
       <item value="aspect" />
       <item value="coordinates" />
       <item value="全透明" />
@@ -109,8 +115,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="150" />
       </map>
     </option>
   </component>
