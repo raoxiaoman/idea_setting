@@ -71,6 +71,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="高斯模糊" />
+      <item value="gao" />
       <item value="Threshold" />
       <item value="normalized" />
       <item value="normalize" />
@@ -121,8 +123,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="168" />
       </map>
     </option>
   </component>
