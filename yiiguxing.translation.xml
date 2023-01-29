@@ -71,6 +71,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Threshold" />
       <item value="normalized" />
       <item value="normalize" />
       <item value="nor" />
@@ -120,7 +121,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
+        <entry key="CHINESE" value="172" />
         <entry key="ENGLISH" value="158" />
       </map>
     </option>
