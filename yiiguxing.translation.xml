@@ -71,10 +71,11 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="cylinderRadius" />
+      <item value="cylinderCenter" />
       <item value="Flat" />
       <item value="Behind" />
       <item value="cylinderAngle" />
-      <item value="cylinderRadius" />
       <item value="眨眼" />
       <item value="za'yan" />
       <item value="za'ya" />
@@ -120,11 +121,10 @@
       <item value="未完成的" />
       <item value="wei" />
       <item value="we" />
-      <item value="残余" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
+        <entry key="CHINESE" value="201" />
         <entry key="ENGLISH" value="181" />
       </map>
     </option>
