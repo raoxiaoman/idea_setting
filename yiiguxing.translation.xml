@@ -71,6 +71,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Flat" />
       <item value="Behind" />
       <item value="cylinderAngle" />
       <item value="cylinderRadius" />
@@ -120,11 +121,10 @@
       <item value="wei" />
       <item value="we" />
       <item value="残余" />
-      <item value="can'yu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
+        <entry key="CHINESE" value="199" />
         <entry key="ENGLISH" value="181" />
       </map>
     </option>
