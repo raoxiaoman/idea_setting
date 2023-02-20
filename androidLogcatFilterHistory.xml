@@ -5,9 +5,12 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug androidr" />
+    <option name="mostRecentlyUsed" value="package:mine refreshToken" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine refreshToken" />
+        <option value="package:mine " />
+        <option value="package:mine level:debug request refreshToke" />
         <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug raohui | onRewardedAdClosed" />
         <option value="package:mine level:debug raohui " />
@@ -25,9 +28,6 @@
         <option value="package:mine level:warn  anddroidr" />
         <option value="package:mine level:debug anddroidr" />
         <option value="package:mine level:debug CameraActivity" />
-        <option value="package:mine level:debug webview" />
-        <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | " />
-        <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment" />
       </list>
     </option>
   </component>
