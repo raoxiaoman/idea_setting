@@ -5,9 +5,12 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine SampleGLViewNew" />
+    <option name="mostRecentlyUsed" value="package:mine EpidemicWebViewFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine EpidemicWebViewFragment" />
+        <option value="package:mine webv" />
+        <option value="package:mine web" />
         <option value="package:mine SampleGLViewNew" />
         <option value="package:mine refreshToken" />
         <option value="package:mine " />
@@ -25,9 +28,6 @@
         <option value="package:mine level:debug videoeditor" />
         <option value="package:mine" />
         <option value="package:mine level:debug TAG" />
-        <option value="package:mine level:debug CameraThread" />
-        <option value="package:mine level:warn  anddroidr" />
-        <option value="package:mine level:debug anddroidr" />
       </list>
     </option>
   </component>
