@@ -5,9 +5,12 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine androidr" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug AudioEpidemicTrackFragment | AudioEpidemicFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug AudioEpidemicTrackFragment | AudioEpidemicFragment" />
+        <option value="package:mine level:debug AudioEpidemicTrackFragment | " />
+        <option value="package:mine level:debug " />
         <option value="package:mine androidr" />
         <option value="package:mine http" />
         <option value="package:mine a" />
@@ -24,10 +27,7 @@
         <option value="package:mine level:debug raohui" />
         <option value="package:mine level:debug SampleGLView" />
         <option value="package:mine level:debug onTouch" />
-        <option value="package:mine level:debug " />
         <option value="package:mine level:debug onTouc" />
-        <option value="package:mine level:debug okhttp" />
-        <option value="package:mine level:debug lifec" />
       </list>
     </option>
   </component>
