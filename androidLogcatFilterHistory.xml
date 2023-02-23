@@ -5,9 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug AudioEpidemicTrackFragment | AudioEpidemicFragment" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug SampleGLViewNew" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug SampleGLViewNew" />
         <option value="package:mine level:debug AudioEpidemicTrackFragment | AudioEpidemicFragment" />
         <option value="package:mine level:debug AudioEpidemicTrackFragment | " />
         <option value="package:mine level:debug " />
@@ -27,7 +28,6 @@
         <option value="package:mine level:debug raohui" />
         <option value="package:mine level:debug SampleGLView" />
         <option value="package:mine level:debug onTouch" />
-        <option value="package:mine level:debug onTouc" />
       </list>
     </option>
   </component>
