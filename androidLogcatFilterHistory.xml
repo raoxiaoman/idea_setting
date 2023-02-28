@@ -5,9 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug android" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug Android" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug Android" />
         <option value="package:mine level:debug android" />
         <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug a" />
@@ -27,7 +28,6 @@
         <option value="package:mine SampleGLViewNew" />
         <option value="package:mine refreshToken" />
         <option value="package:mine level:debug request refreshToke" />
-        <option value="package:mine level:debug raohui | onRewardedAdClosed" />
       </list>
     </option>
   </component>
