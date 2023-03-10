@@ -4,10 +4,10 @@
   </action>
   <action id="ExpandAllRegions" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta minus" />
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
