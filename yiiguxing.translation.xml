@@ -65,12 +65,15 @@
     <option name="lastTrimTime" value="1669601709415" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676950839107" />
+    <option name="lastTrimTime" value="1678959680705" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="OrthographicProjectionMatrix" />
+      <item value="PerspectiveProjectionMatrix" />
+      <item value="Projection" />
       <item value="作者" />
       <item value="zuo'zhe" />
       <item value="cylinderRadius" />
@@ -118,13 +121,10 @@
       <item value="label" />
       <item value="labekl" />
       <item value="修改" />
-      <item value="Incompatible types in initialization (and no available implicit conversion)." />
-      <item value="未" />
-      <item value="未完成的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
+        <entry key="CHINESE" value="210" />
         <entry key="ENGLISH" value="187" />
       </map>
     </option>
