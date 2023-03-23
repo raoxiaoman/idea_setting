@@ -5,11 +5,13 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:debug ShaderHelper" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  level:error " />
+        <option value="package:mine level:debug ShaderHelper" />
+        <option value="package:mine level:debug " />
         <option value="package:mine level:error " />
+        <option value="package:mine  level:error " />
         <option value="package:mine  level:debug  android" />
         <option value="package:mine raohui" />
         <option value="package:mine android" />
@@ -25,9 +27,7 @@
         <option value="package:mine level:debug a" />
         <option value="package:mine level:debug AudioFavoriteFragment" />
         <option value="package:mine level:debug AudioFavoriteFragment &amp; Tag" />
-        <option value="package:mine level:debug " />
         <option value="package:mine level:debug SampleGLViewNew" />
-        <option value="package:mine level:debug AudioEpidemicTrackFragment | AudioEpidemicFragment" />
       </list>
     </option>
   </component>
