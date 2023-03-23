@@ -5,11 +5,11 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug TextureHelper " />
+    <option name="mostRecentlyUsed" value="package:mine level:debug ShaderHelper " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:debug TextureHelper " />
         <option value="package:mine level:debug ShaderHelper " />
+        <option value="package:mine level:debug TextureHelper " />
         <option value="package:mine level:debug ShaderHelper" />
         <option value="package:mine level:debug " />
         <option value="package:mine level:error " />
