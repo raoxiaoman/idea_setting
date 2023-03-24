@@ -6,6 +6,7 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta subtract" />
   </action>
+  <action id="Debug" />
   <action id="ExpandAllRegions" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -26,6 +27,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="UsageGrouping.DirectoryStructure" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
