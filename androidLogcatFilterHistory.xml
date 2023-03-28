@@ -5,9 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error  android" />
+    <option name="mostRecentlyUsed" value="package:mine level:error  androidr" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error  androidr" />
         <option value="package:mine level:error  android" />
         <option value="package:mine level:debug android" />
         <option value="package:mine  level:error " />
@@ -27,7 +28,6 @@
         <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug AudioPagePresenter" />
         <option value="package:mine level:debug Android" />
-        <option value="package:mine level:debug a" />
       </list>
     </option>
   </component>
