@@ -65,12 +65,16 @@
     <option name="lastTrimTime" value="1669601709415" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678959680705" />
+    <option name="lastTrimTime" value="1680775151301" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Material" />
+      <item value="Mater" />
+      <item value="Ma" />
+      <item value="M" />
       <item value="Gesture" />
       <item value="OrthographicProjectionMatrix" />
       <item value="PerspectiveProjectionMatrix" />
@@ -117,14 +121,10 @@
       <item value="diameter" />
       <item value="镜像" />
       <item value="jing'x" />
-      <item value="jing'xiao" />
-      <item value="jin'x" />
-      <item value="label" />
-      <item value="labekl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
+        <entry key="CHINESE" value="212" />
         <entry key="ENGLISH" value="187" />
       </map>
     </option>
