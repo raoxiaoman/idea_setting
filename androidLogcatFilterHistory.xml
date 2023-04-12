@@ -5,9 +5,13 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  level:debug  UTLog" />
+    <option name="mostRecentlyUsed" value="package:mine  level:debug raohui" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  level:debug raohui" />
+        <option value="package:mine  level:debug " />
+        <option value="package:mine  level:debug  raohui" />
+        <option value="package:mine  level:debug  rao" />
         <option value="package:mine  level:debug  UTLog" />
         <option value="package:mine  level:error androidr" />
         <option value="package:mine androidr" />
@@ -24,10 +28,6 @@
         <option value="package:mine  level:debug  android" />
         <option value="package:mine raohui" />
         <option value="package:mine android" />
-        <option value="package:mine level:debug Androidr" />
-        <option value="package:mine " />
-        <option value="package:mine level:debug recorderConsumeThread" />
-        <option value="package:mine anr" />
       </list>
     </option>
   </component>
