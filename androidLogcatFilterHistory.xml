@@ -8,6 +8,7 @@
     <option name="mostRecentlyUsed" value="package:mine  level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error  androidr" />
         <option value="package:mine  level:error " />
         <option value="package:mine level:debug life" />
         <option value="package:mine level:error android" />
@@ -20,7 +21,6 @@
         <option value="package:mine  level:debug  UTLog" />
         <option value="package:mine  level:error androidr" />
         <option value="package:mine androidr" />
-        <option value="package:mine level:error  androidr" />
         <option value="package:mine  level:error android" />
         <option value="package:mine level:error  android" />
         <option value="package:mine level:debug android" />
