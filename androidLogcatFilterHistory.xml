@@ -5,15 +5,16 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug  AudioModuleDelegate | AudioPageFragment" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine level:debug a" />
         <option value="package:mine level:debug  AudioModuleDelegate | AudioPageFragment" />
         <option value="package:mine level:debug  AudioModuleDelegate | " />
         <option value="package:mine level:debug  AudioModuleDelegate" />
         <option value="package:mine level:debug  raohui" />
         <option value="package:mine level:error raohui" />
-        <option value="package:mine level:error " />
         <option value="package:mine level:error IllegalStateException" />
         <option value="package:mine level:error printStackTrace" />
         <option value="package:mine level:debug raohui" />
@@ -27,7 +28,6 @@
         <option value="package:mine  level:debug " />
         <option value="package:mine  level:debug  raohui" />
         <option value="package:mine  level:debug  rao" />
-        <option value="package:mine  level:debug  UTLog" />
       </list>
     </option>
   </component>
