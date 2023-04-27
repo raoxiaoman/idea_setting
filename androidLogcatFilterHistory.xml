@@ -5,9 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:debug raohui" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug raohui" />
         <option value="package:mine level:error " />
         <option value="package:mine level:debug a" />
         <option value="package:mine level:debug  AudioModuleDelegate | AudioPageFragment" />
@@ -17,7 +18,6 @@
         <option value="package:mine level:error raohui" />
         <option value="package:mine level:error IllegalStateException" />
         <option value="package:mine level:error printStackTrace" />
-        <option value="package:mine level:debug raohui" />
         <option value="package:mine level:error  androidr" />
         <option value="package:mine  level:error " />
         <option value="package:mine level:debug life" />
