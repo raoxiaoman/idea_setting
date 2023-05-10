@@ -5,9 +5,11 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine  level:error AudioEpidemicPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  level:error AudioEpidemicPresenter" />
+        <option value="package:mine  level:error getEpidemicSoundCollections" />
         <option value="package:mine level:error " />
         <option value="package:mine level:debug raohui" />
         <option value="package:mine level:debug a" />
@@ -26,8 +28,6 @@
         <option value="package:mine  level:debug life" />
         <option value="package:mine  level:debug raohui" />
         <option value="package:mine  level:debug " />
-        <option value="package:mine  level:debug  raohui" />
-        <option value="package:mine  level:debug  rao" />
       </list>
     </option>
   </component>
