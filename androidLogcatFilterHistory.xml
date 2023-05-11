@@ -9,6 +9,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:videoeditor.videomaker.videoeditorforyoutube okhttp" />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube level:warn " />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube okhttp level:debug " />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube http" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube ok" />
         <option value="package:mine  level:error AudioEpidemicPresenter" />
         <option value="package:mine  level:error getEpidemicSoundCollections" />
@@ -25,9 +28,6 @@
         <option value="package:mine level:error  androidr" />
         <option value="package:mine  level:error " />
         <option value="package:mine level:debug life" />
-        <option value="package:mine level:error android" />
-        <option value="package:mine  level:debug life " />
-        <option value="package:mine  level:debug life" />
       </list>
     </option>
   </component>
