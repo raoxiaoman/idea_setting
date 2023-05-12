@@ -5,9 +5,11 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube okhttp" />
+    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.videoeditorforyoutube utlog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube utlog" />
+        <option value="package:videoeditor.videomaker.videoeditorforyoutube " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube okhttp" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:warn " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube okhttp level:debug " />
@@ -26,8 +28,6 @@
         <option value="package:mine level:error IllegalStateException" />
         <option value="package:mine level:error printStackTrace" />
         <option value="package:mine level:error  androidr" />
-        <option value="package:mine  level:error " />
-        <option value="package:mine level:debug life" />
       </list>
     </option>
   </component>
