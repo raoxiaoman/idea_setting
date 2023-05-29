@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m" />
     <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
