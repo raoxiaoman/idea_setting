@@ -5,12 +5,12 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug raohui" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug androidr" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug raohui" />
         <option value="package:mine level:debug TimelinePanel" />
-        <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug  raohui" />
         <option value="package:mine level:debug  androidr" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube raohui" />
