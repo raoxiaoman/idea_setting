@@ -5,9 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug androidr" />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube raohui" />
         <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug GraphicItemManager" />
@@ -27,7 +28,6 @@
         <option value="package:videoeditor.videomaker.videoeditorforyoutube " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube okhttp" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube level:warn " />
-        <option value="package:videoeditor.videomaker.videoeditorforyoutube okhttp level:debug " />
       </list>
     </option>
   </component>
