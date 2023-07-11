@@ -5,12 +5,12 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug se" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug " />
         <option value="package:mine level:debug se" />
         <option value="package:mine level:debug service" />
-        <option value="package:mine level:debug " />
         <option value="package:mine level:error " />
         <option value="package:mine level:debug raohui" />
         <option value="package:mine level:error raohui" />
