@@ -8,6 +8,7 @@
     <option name="mostRecentlyUsed" value="package:mine level:error androidr" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:error androidr" />
         <option value="package:mine level:error " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutub " />
@@ -27,7 +28,6 @@
         <option value="package:videoeditor.videomaker.videoeditorforyoutube raohui" />
         <option value="package:mine level:debug androidr" />
         <option value="package:mine level:debug GraphicItemManager" />
-        <option value="package:mine level:debug recy" />
       </list>
     </option>
   </component>
