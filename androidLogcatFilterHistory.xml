@@ -5,11 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine SampleGLView" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine SampleGLView" />
         <option value="package:mine " />
+        <option value="package:mine SampleGLView" />
         <option value="package:mine level:error androidr" />
         <option value="package:mine level:error " />
         <option value="package:videoeditor.videomaker.videoeditorforyoutub " />
