@@ -5,8 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine camera" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine camera" />
         <option value="package:mine " />
         <option value="package:mine SampleGLView" />
         <option value="package:mine level:error androidr" />
@@ -26,7 +28,6 @@
         <option value="package:mine level:error" />
         <option value="package:mine okhttp" />
         <option value="package:videoeditor.videomaker.videoeditorforyoutube raohui" />
-        <option value="package:mine level:debug androidr" />
       </list>
     </option>
   </component>
