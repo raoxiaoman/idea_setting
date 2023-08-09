@@ -5,9 +5,14 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:debug http" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug http" />
+        <option value="package:mine level:debug  http" />
+        <option value="package:mine level:error http" />
+        <option value="package:mine level:debug " />
+        <option value="package:mine leve" />
         <option value="package:mine level:error " />
         <option value="package:mine camera" />
         <option value="package:mine " />
@@ -21,13 +26,8 @@
         <option value="package:mine level:error  " />
         <option value="package:mine level:debug raohui" />
         <option value="package:mine level:debug raohui " />
-        <option value="package:mine level:debug " />
         <option value="package:mine level:debug se" />
         <option value="package:mine level:debug service" />
-        <option value="package:mine level:error raohui" />
-        <option value="package:mine level:error" />
-        <option value="package:mine okhttp" />
-        <option value="package:videoeditor.videomaker.videoeditorforyoutube raohui" />
       </list>
     </option>
   </component>
