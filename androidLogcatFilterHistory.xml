@@ -5,9 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug appSign" />
+    <option name="mostRecentlyUsed" value="package:mine level:verbose appsi" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:verbose appsi" />
         <option value="package:mine level:debug appSign" />
         <option value="package:mine level:debug  app" />
         <option value="package:mine level:verbose  utlog" />
@@ -27,7 +28,6 @@
         <option value="package:mine SampleGLView" />
         <option value="package:mine level:error androidr" />
         <option value="package:mine level:debug" />
-        <option value="package:mine level:debug CameraFragment" />
       </list>
     </option>
   </component>
