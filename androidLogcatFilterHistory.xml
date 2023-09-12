@@ -5,12 +5,12 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.aieffect level:debug CameraThread" />
+    <option name="mostRecentlyUsed" value="package:videoeditor.videomaker.aieffect level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:videoeditor.videomaker.aieffect level:error " />
         <option value="package:videoeditor.videomaker.aieffect level:debug CameraThread" />
         <option value="package:videoeditor.videomaker.aieffect level:debug SampleGLView" />
-        <option value="package:videoeditor.videomaker.aieffect level:error " />
         <option value="package:videoeditor.videomaker.aieffect level:debug raohoulin" />
         <option value="package:videoeditor.videomaker.aieffect level:debug " />
         <option value="package:videoeditor.videomaker.aieffect level:debug CameraTemplateAdapter" />
