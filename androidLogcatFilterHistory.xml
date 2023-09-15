@@ -5,9 +5,11 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:warn com.inshot.utool" />
+    <option name="mostRecentlyUsed" value="level:warn videoeditor.videomaker.aieffect" />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn videoeditor.videomaker.aieffect" />
+        <option value="level:warn com.inshot.utool " />
         <option value="level:warn com.inshot.utool" />
         <option value="level:warn " />
         <option value="package:videoeditor.videomaker.aieffect" />
@@ -26,8 +28,6 @@
         <option value="package:mine level:debug appSign" />
         <option value="package:mine level:debug  app" />
         <option value="package:mine level:verbose  utlog" />
-        <option value="package:mine level:debug utlog" />
-        <option value="package:mine level:debug " />
       </list>
     </option>
   </component>
