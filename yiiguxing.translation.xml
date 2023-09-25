@@ -65,12 +65,17 @@
     <option name="lastTrimTime" value="1669601709415" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1694661838026" />
+    <option name="lastTrimTime" value="1695640783220" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="bottom Static" />
+      <item value="vert Jerk" />
+      <item value="vert Movement" />
+      <item value="vert Jerk Opt" />
+      <item value="float vertJerkOpt = 1.0; float vertMovementOpt = 1.0; float bottomStaticOpt = 1.0; float scalinesOpt = 1.0; float rgbOffsetOpt = 1.0; float horzFuzzOpt = 1.0;" />
       <item value="month Pay Sub Title" />
       <item value="OBTAINED" />
       <item value="Base App Dialog" />
@@ -116,16 +121,12 @@
       <item value="容器" />
       <item value="mainArtists" />
       <item value="Musician" />
-      <item value="album" />
-      <item value="genres" />
-      <item value="drain" />
-      <item value="dra" />
-      <item value="通知" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="DUTCH" value="2" />
+        <entry key="ENGLISH" value="192" />
       </map>
     </option>
   </component>
