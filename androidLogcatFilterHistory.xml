@@ -5,9 +5,10 @@
         <option value="package:mine level:debug AudioPageFragment | AudioEpidemicTrackFragment | EpidemicTrackAdapter" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error package:mine  " />
+    <option name="mostRecentlyUsed" value="level:warn  package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn  package:mine " />
         <option value="level:error package:mine  " />
         <option value="level:error package:mine " />
         <option value="le" />
@@ -27,7 +28,6 @@
         <option value="package:videoeditor.videomaker.aieffect level:error " />
         <option value="package:videoeditor.videomaker.aieffect level:debug CameraThread" />
         <option value="package:videoeditor.videomaker.aieffect level:debug SampleGLView" />
-        <option value="package:videoeditor.videomaker.aieffect level:debug raohoulin" />
       </list>
     </option>
   </component>
